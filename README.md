@@ -1,165 +1,207 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vin%C3%ADcius%20Emanuel%20Costa&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Infraestrutura%20%26%20DevOps&descSize=16&descAlignY=55" width="100%"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Vin%C3%ADcius+Emanuel+Costa;Analista+de+Infraestrutura+%26+DevOps)](https://github.com/Vinicius-Costa14)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=60&lines=Monitoramento+%7C+Observabilidade+%7C+Redes+%7C+Automacao;Prometheus+%7C+Grafana+%7C+Zabbix+%7C+WireGuard+%7C+Docker)](https://github.com/Vinicius-Costa14)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vinicius-Costa14&color=blueviolet&style=for-the-badge&label=VISUALIZACOES)](https://github.com/Vinicius-Costa14)
-[![GitHub followers](https://img.shields.io/github/followers/Vinicius-Costa14?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github)](https://github.com/Vinicius-Costa14)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vinicius-Costa14&color=6c5ce7&style=for-the-badge&label=VISITORS)](https://github.com/Vinicius-Costa14)
+[![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=REPOS&style=for-the-badge&color=blue&query=%24.public_repos&url=https://api.github.com/users/Vinicius-Costa14)](https://github.com/Vinicius-Costa14?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-emanuel-costa/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusemanuelcosta@gmail.com)
 
 </div>
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Costa14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" width="320"/>
+
 ### Sobre mim
 
-Analista de Infraestrutura focado em **monitoramento, observabilidade e redes**. Construo stacks de monitoramento em produção, redes mesh VPN com WireGuard e automações para ambientes com dezenas de servidores. Experiência com gestão de 59+ hosts, redes multi-site e pipelines de alertas inteligentes.
+```yaml
+nome: Vinícius Emanuel Costa
+cargo: Analista de Infraestrutura & DevOps
+empresa: Sourei
+local: Varginha-MG, Brasil
+foco:
+  - Monitoramento & Observabilidade
+  - Redes Mesh VPN (WireGuard)
+  - Automação de Infraestrutura
+  - Containers & Orquestração
+experiencia:
+  servidores_gerenciados: 59+
+  stacks_monitoramento: Prometheus, Grafana, Zabbix, OpenSearch
+  vpn_mesh: WireGuard multi-site
+  containers: Docker, K3s, Portainer
+```
 
-- Atuo como **DevOps/Infra na Sourei** — administrando servidores, redes e monitoramento
-- Criando soluções de **mesh VPN** para clientes com WireGuard
-- Construindo labs completos de **observabilidade** (Prometheus + Grafana + Zabbix + OpenSearch)
-- Desenvolvendo ferramentas de **automação** e gestão de infraestrutura
+<br clear="both"/>
 
 ---
 
 ### Tech Stack
 
-**Monitoramento & Observabilidade**
+<div align="center">
 
+#### Monitoramento & Observabilidade
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 
-**Containers & Orquestração**
-
+#### Containers & Orquestração
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=kubernetes&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 
-**Redes & VPN**
-
+#### Redes & VPN
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![ZeroTier](https://img.shields.io/badge/ZeroTier-FFB441?style=for-the-badge&logo=zerotier&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![LiteSpeed](https://img.shields.io/badge/LiteSpeed-003366?style=for-the-badge&logoColor=white)
 
-**Linguagens & Ferramentas**
-
+#### Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Infra & SO**
-
+#### Infra & Banco de Dados
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ### Projetos em Destaque
 
+<div align="center">
+
+> *Todos os projetos abaixo foram construidos e utilizados em ambientes reais de producao e laboratorio.*
+
+</div>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[monitoring-lab](https://github.com/Vinicius-Costa14/monitoring-lab)**
+<h3 align="center">monitoring-lab</h3>
+<div align="center">
 
-Stack completa de observabilidade com **14+ serviços** — Prometheus, Grafana, Zabbix, OpenSearch, K3s, Fluent Bit, Alertmanager, Blackbox Exporter, Logstash e mais.
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/monitoring-lab)
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+Stack completa de observabilidade com **14+ serviços** rodando em Docker Compose. Prometheus, Grafana, Zabbix, OpenSearch, K3s, Fluent Bit, Alertmanager, Blackbox Exporter, Logstash, Node Exporter e containers custom Ubuntu.
 
+`Prometheus` `Grafana` `Zabbix` `OpenSearch` `K3s` `Docker`
+
+</div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[alert-enricher](https://github.com/Vinicius-Costa14/alert-enricher)**
+<h3 align="center">alert-enricher</h3>
+<div align="center">
 
-Enriquecimento de alertas com **IA** — recebe webhooks do Alertmanager, correlaciona logs do OpenSearch e envia análise inteligente pro Telegram com filas hot/warm.
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/alert-enricher)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+Enriquecimento de alertas com **IA**. Recebe webhooks do Alertmanager, correlaciona logs do OpenSearch na janela de tempo, envia pra IA analisar causa raiz e rota inteligente pro Telegram (filas hot/warm pra infra e dev).
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+`Python` `Flask` `OpenSearch` `Telegram` `IA`
 
-**[vecgate](https://github.com/Vinicius-Costa14/vecgate)**
-
-Plataforma de gestão de mesh WireGuard — **terminal SSH no browser** via WebSocket, health check automático, audit log e deploy multi-tenant por cliente.
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-
-</td>
-<td width="50%">
-
-**[wireguard-mesh-lab](https://github.com/Vinicius-Costa14/wireguard-mesh-lab)**
-
-Lab de VPN WireGuard **full mesh** com 5 nodes em Docker — geração automática de chaves e topologia completa pronta pra testar.
-
-![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Alpine](https://img.shields.io/badge/-Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
-
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[docker-images](https://github.com/Vinicius-Costa14/docker-images)**
+<h3 align="center">vecgate</h3>
+<div align="center">
 
-Dockerfiles otimizados pra produção — multi-stage builds, imagens mínimas, segurança, health checks. Nginx, Python, Node.js, Go, MariaDB backup.
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/vecgate)
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Alpine](https://img.shields.io/badge/-Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+Plataforma completa de gestão de mesh WireGuard. **Terminal SSH no browser** via WebSocket, health check automático a cada 30s, audit log, geração de chaves WG e deploy multi-tenant por cliente.
 
+`Node.js` `React` `WebSocket` `WireGuard` `SQLite`
+
+</div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[devops-scripts](https://github.com/Vinicius-Costa14/devops-scripts)**
+<h3 align="center">wireguard-mesh-lab</h3>
+<div align="center">
 
-Coleção de scripts de automação — menu SSH interativo pra 59+ hosts, setup de servidores, instalação de Node Exporter, WireGuard e backup MySQL.
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/wireguard-mesh-lab)
 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SSH](https://img.shields.io/badge/-SSH-333?style=flat-square&logo=openssh&logoColor=white)
+Lab de VPN WireGuard **full mesh** com 5 nodes em Docker. Geração automática de chaves, topologia completa, Alpine Linux. Sobe com um `docker compose up` e já testa conectividade mesh.
 
+`WireGuard` `Docker` `Alpine` `Bash` `Networking`
+
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[incident-response-bot](https://github.com/Vinicius-Costa14/incident-response-bot)**
+<h3 align="center">docker-images</h3>
+<div align="center">
 
-Bot Telegram pra gestão de incidentes — escalonamento automático, runbooks, timeline de ações e métricas de MTTR/MTTA.
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/docker-images)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+Dockerfiles otimizados pra produção. **Multi-stage builds**, imagens mínimas (Alpine, scratch), non-root, health checks, segurança. Nginx hardened, Python, Node.js, Go, MariaDB backup com cron.
 
+`Docker` `Multi-stage` `Alpine` `Nginx` `Security`
+
+</div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[gitops-pipeline](https://github.com/Vinicius-Costa14/gitops-pipeline)**
+<h3 align="center">incident-response-bot</h3>
+<div align="center">
 
-Pipeline GitOps com GitHub Actions + ArgoCD — CI/CD automatizado com build, test, scan de segurança e deploy em Kubernetes via Kustomize.
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/incident-response-bot)
 
-![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Bot Telegram pra gestão de incidentes. Escalonamento automático (P1-P4), runbooks integrados, timeline de ações, rotação de on-call e métricas de **MTTR/MTTA** calculadas automaticamente.
 
+`Python` `Telegram Bot` `SQLite` `SRE` `Incidentes`
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">gitops-pipeline</h3>
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/gitops-pipeline)
+
+Pipeline GitOps completo. GitHub Actions (CI/CD), build Docker, push pro GHCR, scan de segurança com Trivy, deploy automatizado em K8s via ArgoCD + Kustomize (staging e production).
+
+`GitHub Actions` `ArgoCD` `Kubernetes` `Kustomize` `CI/CD`
+
+</div>
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">devops-scripts</h3>
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/-VER_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14/devops-scripts)
+
+Coleção de scripts de automação do dia a dia. Menu SSH interativo com whiptail pra **59+ hosts** organizados por categoria, setup de servidores, Node Exporter, WireGuard e backup MySQL com rotação.
+
+`Bash` `SSH` `Linux` `Automação` `WireGuard`
+
+</div>
 </td>
 </tr>
 </table>
@@ -170,7 +212,7 @@ Pipeline GitOps com GitHub Actions + ArgoCD — CI/CD automatizado com build, te
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vinicius-Costa14&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/Vinicius-Costa14)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vinicius-Costa14&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/Vinicius-Costa14)
 
 </div>
 
@@ -179,39 +221,37 @@ Pipeline GitOps com GitHub Actions + ArgoCD — CI/CD automatizado com build, te
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Costa14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Costa14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&locale=pt-br&ring_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Costa14&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Vinicius-Costa14&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF&locale=pt_BR" alt="Streak Stats" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vinicius-Costa14&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Streak Stats" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Costa14&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Costa14&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6347&area=true&area_color=58A6FF" width="98%"/>
 </div>
 
 ---
 
-### Contato
+### Snake Animation
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-emanuel-costa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Costa14)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusemanuelcosta@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Costa14/Vinicius-Costa14/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Costa14/Vinicius-Costa14/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Vinicius-Costa14/Vinicius-Costa14/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
+
+**Se algum projeto te ajudou, deixa uma estrela!**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
