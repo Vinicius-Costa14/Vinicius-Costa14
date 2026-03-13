@@ -162,34 +162,6 @@ projetos_open_source: 8
 
 <br>
 
-## Certificados
-
-<div align="center">
-<em>Estudonauta / Curso em Video</em>
-</div>
-
-<br>
-
-| Certificado | Carga Horaria | Emissao | Codigo | Validar |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.estudonauta.com/validacao-de-certificado/"><img src="python3-fundamentos-40h.png" width="280"/></a><br>**Python 3 - Fundamentos** | 40h | 08/07/2025 | `2EF8-B1B6-7` | [Link](https://www.estudonauta.com/validacao-de-certificado/) |
-| <a href="https://www.estudonauta.com/validacao-de-certificado/"><img src="python3-estruturas-controle-40h.png" width="280"/></a><br>**Python 3 - Estruturas de Controle** | 40h | 14/07/2025 | `2EF8-B248-4` | [Link](https://www.estudonauta.com/validacao-de-certificado/) |
-| <a href="https://www.estudonauta.com/validacao-de-certificado/"><img src="git-github-20h.png" width="280"/></a><br>**Git e GitHub** | 20h | 17/09/2025 | `2EF8-1E731-4` | [Link](https://www.estudonauta.com/validacao-de-certificado/) |
-
-<details>
-<summary><strong>Ver mais certificados (+2)</strong></summary>
-
-<br>
-
-| Certificado | Carga Horaria | Emissao | Codigo | Validar |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.estudonauta.com/validacao-de-certificado/"><img src="linux-primeiros-passos-20h.png" width="280"/></a><br>**Linux - Primeiros Passos** | 20h | 03/09/2025 | `2EF8-B79C-2` | [Link](https://www.estudonauta.com/validacao-de-certificado/) |
-| <a href="https://www.estudonauta.com/validacao-de-certificado/"><img src="programacao-basica-20h.png" width="280"/></a><br>**Algoritmos e Logica de Programacao** | 20h | 13/10/2025 | `2EF8-AD83-9` | [Link](https://www.estudonauta.com/validacao-de-certificado/) |
-
-</details>
-
-<br>
-
 ## GitHub Stats
 
 <div align="center">
