@@ -164,8 +164,9 @@ projetos_open_source: 8
 
 ## Certificados
 
-<details>
-<summary><strong>Estudonauta / Curso em Video</strong> (5 certificados - clique para expandir)</summary>
+<div align="center">
+<em>Estudonauta / Curso em Video</em>
+</div>
 
 <br>
 
@@ -174,6 +175,14 @@ projetos_open_source: 8
 | <a href="https://www.estudonauta.com/validar/?code=2EF8-B1B6-7"><img src="python3-fundamentos-40h.png" width="280"/></a><br>**Python 3 - Fundamentos** | 40h | 08/07/2025 | `2EF8-B1B6-7` | [Link](https://www.estudonauta.com/validar/?code=2EF8-B1B6-7) |
 | <a href="https://www.estudonauta.com/validar/?code=2EF8-B248-4"><img src="python3-estruturas-controle-40h.png" width="280"/></a><br>**Python 3 - Estruturas de Controle** | 40h | 14/07/2025 | `2EF8-B248-4` | [Link](https://www.estudonauta.com/validar/?code=2EF8-B248-4) |
 | <a href="https://www.estudonauta.com/validar/?code=2EF8-1E731-4"><img src="git-github-20h.png" width="280"/></a><br>**Git e GitHub** | 20h | 17/09/2025 | `2EF8-1E731-4` | [Link](https://www.estudonauta.com/validar/?code=2EF8-1E731-4) |
+
+<details>
+<summary><strong>Ver mais certificados (+2)</strong></summary>
+
+<br>
+
+| Certificado | Carga Horaria | Emissao | Codigo | Validar |
+|:---:|:---:|:---:|:---:|:---:|
 | <a href="https://www.estudonauta.com/validar/?code=2EF8-B79C-2"><img src="linux-primeiros-passos-20h.png" width="280"/></a><br>**Linux - Primeiros Passos** | 20h | 03/09/2025 | `2EF8-B79C-2` | [Link](https://www.estudonauta.com/validar/?code=2EF8-B79C-2) |
 | <a href="https://www.estudonauta.com/validar/?code=2EF8-AD83-9"><img src="programacao-basica-20h.png" width="280"/></a><br>**Algoritmos e Logica de Programacao** | 20h | 13/10/2025 | `2EF8-AD83-9` | [Link](https://www.estudonauta.com/validar/?code=2EF8-AD83-9) |
 
